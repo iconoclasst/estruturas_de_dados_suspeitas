@@ -2,4 +2,6 @@
 
 > repositório pra guardar códigos com tentativas  
 > Linguagem C e Python  
-> Talvez algo mais  
+> Talvez algo mais 
+
+![toma](logo.png) 
