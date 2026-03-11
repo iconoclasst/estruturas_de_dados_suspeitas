@@ -17,6 +17,10 @@ Além disso, lidar com Struct, malloc e free
 
 No geral, tudo estará nos arquivos.c.
 
+![toma2](images/ciclo.png)  
+> Fonte: Waldemar Celes e José Lucas
+
+
 Referências: 
 - Discrete Mathematic and Its Applications - K. Rosen  
 - Apostila de Estrutura de Dados em C - Waldemar Celes e José Lucas - PUC-RIO  
