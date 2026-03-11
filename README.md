@@ -13,4 +13,12 @@ Estrutura de dados em C é basicamente lidar com:
 
 As estruturas são formadas pelos tipos primitivos int, real, boolean e string  
 
-Além disso, lidar com Struct, malloc e free
+Além disso, lidar com Struct, malloc e free  
+
+No geral, tudo estará nos arquivos.c.
+
+Referências: 
+- Discrete Mathematic and Its Applications - K. Rosen  
+- Apostila de Estrutura de Dados em C - Waldemar Celes e José Lucas - PUC-RIO  
+- Entendendo Algoritmos - Bhargava  
+
