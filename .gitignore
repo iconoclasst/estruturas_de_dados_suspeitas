@@ -1,2 +1,3 @@
 *.sh
-program.exe
+*.exe
+*.out
